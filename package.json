@@ -1,0 +1,22 @@
+{
+  "name": "server_side_javascript",
+  "version": "1.0.0",
+  "description": "Server Side JavaScript NodeJS",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigcat0815/ServerSideJavascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigcat0815/ServerSideJavascript/issues"
+  },
+  "homepage": "https://github.com/bigcat0815/ServerSideJavascript#readme",
+  "dependencies": {
+    "underscore": "^1.11.0"
+  }
+}
